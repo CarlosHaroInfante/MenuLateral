@@ -1,0 +1,14 @@
+
+/* Menú lateral estilo columna */
+.nav {
+    width: 120px;
+    height: 100vh; /* Ocupar todo el alto de la pantalla */
+    background-color: cornflowerblue;
+    padding: 1rem;
+}
+
+.nav a {
+    color: white;
+    margin-bottom: 1rem;
+    display: block;
+}
